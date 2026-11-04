@@ -9,3 +9,6 @@ Artiste.
 ## Contact
 
 À compléter.
+
+## Materiel
+![Matos](assets/images/demo_materiel.jpeg)
