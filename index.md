@@ -1,5 +1,3 @@
-# Xavline
-
 Bienvenue !
 
 ## À propos
