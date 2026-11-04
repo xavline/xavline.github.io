@@ -1,0 +1,8 @@
+title: Xavline
+description: DJ en Creuse
+
+theme: minima
+
+header_pages:
+  - index.md
+  - contact.md
